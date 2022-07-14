@@ -35,6 +35,10 @@ html {
   width: 45rem;
 }
 
+.img {
+  width: 100%;
+}
+
 .info-container {
   margin: 2rem 5rem;
 }
